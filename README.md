@@ -1,2 +1,2 @@
-# House-Price-Range-Prediction-ML-
+# House-Price-Prediction-case_study
 Linear Regression - House Price Range Prediction
